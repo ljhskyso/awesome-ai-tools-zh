@@ -6,6 +6,8 @@
 
 `awesome-ai-tools-zh` 是一份**面向中文用户的 AI 工具导航合集**：按场景分类、标注免费/付费/开源、每条一句话说明，打开就能用。全部基于 2026-10 整理，链接以官网为准。
 
+⭐ 如果对你有帮助，点个 Star 支持中文开源
+
 ## 为什么值得收藏
 
 - 🎯 **覆盖最全场景**：从聊天写东西到画图剪视频、从写代码到做 PPT，10+ 大类、500+ 工具一次收齐
@@ -96,3 +98,15 @@ awesome-ai-tools-zh/
 ---
 
 *整理不易，欢迎 Star 支持。希望这份导航能帮你找到趁手的 AI 工具。*
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
